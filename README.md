@@ -19,9 +19,14 @@ Si no hay ganador o la partida no terminó todavía en empate, el juego continú
 que seleccione la posición del tablero dónde quiere poner su símbolo y así siguiendo hasta que la partida 
 termine con un ganador o en empate.
 
+--> Caja registradora (POO, testing)
 
+ El sistema debe poder escanear un producto (el cajero puede tipear el código del producto), y agregarlo a la lista 
+ de productos comprados para ese cliente. Además debe mostrar el subtotal. El cajero cuando lo desee puede finalizar
+ la compra y el sistema deberá aplicar los descuentos correspondientes a los productos. Luego, el cajero indica con 
+ cuánto paga el cliente y el sistema debe mostrar el cambio que debe devolver al cliente.
 
---> ESCUELA con SQL 
+--> ESCUELA con SQL (SQL)
 
 #Este sistema permite registrar nuevos alumnos, profesores y cursos.
 #Un alumno es asignado a un curso y un curso puede tener asociado más de un profesor. 
