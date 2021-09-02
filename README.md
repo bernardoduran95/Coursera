@@ -1,5 +1,5 @@
 # Coursera
-Curos de python en coursera, POO, SQL, Testing
+Proyectos finales realizados en el curso de especializacion en python de la plataforma coursera, POO, SQL, Testing 
 Proyectos: 
 
 -->  SIMULADOR DE DADOS 
